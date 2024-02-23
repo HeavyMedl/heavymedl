@@ -4,7 +4,7 @@ I'm a full-stack software engineer based in the Seattle area. I have a <a href="
 
 <p align="left">
 <a href="https://www.linkedin.com/in/heavymedl" target="blank"><img align="center" src="https://img.shields.io/badge/-LinkedIn-1568BF?style=for-the-badge&logo=Linkedin&logoColor=white" alt="kurt linkedin" /></a>
-<a href="https://instagram.com/heavy.medl" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="kurt insta" /></a>
+<a href="https://instagram.com/heavy.medl" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F.svg?style=for-the-badge&hide_title=true&logo=Instagram&logoColor=white" alt="kurt insta" /></a>
 <a href="mailto:kurtdmedley@gmail.com"><img align="center" src="https://img.shields.io/badge/-Email-E8453C?style=for-the-badge&logo=Gmail&logoColor=white" alt="kurt email" /></a>
 </p>
 
