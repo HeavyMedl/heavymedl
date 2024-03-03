@@ -13,6 +13,6 @@ I'm a full-stack software engineer based in the Seattle area. I have a <a href="
 ---
 
 <p align="left">
-<img src="https://github-readme-stats-heavymedl.vercel.app/api?username=heavymedl&include_all_commits=true&hide_title=true&theme=tokyonight&show_icons=true&hide_border=true" alt="github stats" />
+<!-- <img src="https://github-readme-stats-heavymedl.vercel.app/api?username=heavymedl&include_all_commits=true&hide_title=true&theme=tokyonight&show_icons=true&hide_border=true" alt="github stats" /> -->
 <img align="top" src="https://github-readme-stats-heavymedl.vercel.app/api/top-langs/?username=heavymedl&hide_title=true&theme=tokyonight&show_icons=true&layout=compact&exclude_repo=archive&hide_border=true" alt="top langs" />
 </p>
