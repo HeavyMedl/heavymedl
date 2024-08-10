@@ -12,6 +12,14 @@ I'm a full-stack software engineer based in the Seattle area.
 
 ---
 
+ ### HeavyMedl's Center for Kids Who Can't Code Good *(and wanna learn how to do other stuff good, too)*
+
+Come join an active Discord community of people becoming better software engineers together. Learn more about it <a href="https://heavymedl.dev/posts/center-for-kids-who-cant-code-good/" target="blank">here</a>.
+
+Invite link: https://discord.gg/ueCbrwSKVX
+
+---
+
 <p align="left">
 <!-- <img src="https://github-readme-stats-heavymedl.vercel.app/api?username=heavymedl&include_all_commits=true&hide_title=true&theme=tokyonight&show_icons=true&hide_border=true" alt="github stats" /> -->
 <img align="top" src="https://github-readme-stats-heavymedl.vercel.app/api/top-langs/?username=heavymedl&hide_title=true&theme=tokyonight&show_icons=true&layout=compact&exclude_repo=archive&hide_border=true" alt="top langs" />
