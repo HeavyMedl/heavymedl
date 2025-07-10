@@ -10,17 +10,7 @@ I'm a full-stack software engineer based in the Seattle area.
 <a href="mailto:kurtdmedley@gmail.com"><img align="center" src="https://img.shields.io/badge/-Email-E8453C?style=for-the-badge&logo=Gmail&logoColor=white" alt="kurt email" /></a>
 </p>
 
----
-
-<p align="left">
+<!-- <p align="left"> -->
 <!-- <img src="https://github-readme-stats-heavymedl.vercel.app/api?username=heavymedl&include_all_commits=true&hide_title=true&theme=tokyonight&show_icons=true&hide_border=true" alt="github stats" /> -->
-<img align="top" src="https://github-readme-stats-heavymedl.vercel.app/api/top-langs/?username=heavymedl&hide_title=true&theme=tokyonight&show_icons=true&layout=compact&exclude_repo=archive&hide_border=true" alt="top langs" />
-</p>
-
----
-
-### HeavyMedl's Center for Kids Who Can't Code Good *(and wanna learn how to do other stuff good, too)*
-
-Join a community to master software engineering essentials together. Learn more about it <a href="https://heavymedl.dev/posts/center-for-kids-who-cant-code-good/" target="blank">here</a>.
-
-Invite link: https://discord.gg/ueCbrwSKVX
+<!-- <img align="top" src="https://github-readme-stats-heavymedl.vercel.app/api/top-langs/?username=heavymedl&hide_title=true&theme=tokyonight&show_icons=true&layout=compact&exclude_repo=archive&hide_border=true" alt="top langs" /> -->
+<!-- </p> -->
